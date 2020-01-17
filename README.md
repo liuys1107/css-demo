@@ -1,6 +1,11 @@
 ## css-demo
 CSS常用的动画效果
 
+##效果展示
+
+###demo1
+![image](https://github.com/liuys1107/css-demo/blob/master/src/static/images/demo1.gif)
+
 ### 快速开始
 ```javascript
 npm install  // 依赖包安装
