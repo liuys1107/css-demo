@@ -212,7 +212,7 @@
       <workItem from="1574750172785" duration="4852000" />
       <workItem from="1579230700307" duration="7000" />
       <workItem from="1579230763281" duration="2889000" />
-      <workItem from="1579238633669" duration="5814000" />
+      <workItem from="1579238633669" duration="6822000" />
     </task>
     <task id="LOCAL-00001" summary="test gif">
       <created>1579245636809</created>
@@ -221,11 +221,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579245636810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gif">
+      <created>1579245850655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579245850655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15523000" />
+    <option name="totallyTimeSpent" value="16531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -256,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test gif" />
-    <option name="LAST_COMMIT_MESSAGE" value="test gif" />
+    <MESSAGE value="add gif" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gif" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/webpack.common.js">

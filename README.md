@@ -9,6 +9,8 @@ CSS常用的动画效果
 
 ### demo2
 
+![image](src/static/images/demo2.png)
+
 ### demo3
 
 ![image](https://github.com/liuys1107/css-demo/blob/master/src/static/images/demo3-button1.gif)
@@ -20,6 +22,8 @@ CSS常用的动画效果
 ![image](https://github.com/liuys1107/css-demo/blob/master/src/static/images/demo4.gif)
 
 ### demo5
+
+![image](src/static/images/demo5.png)
 
 ### demo6
 
