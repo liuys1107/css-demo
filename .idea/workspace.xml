@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a3f09ee3-7b91-4f22-9601-3f45c31e9d92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="114">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -212,7 +211,7 @@
       <workItem from="1574750172785" duration="4852000" />
       <workItem from="1579230700307" duration="7000" />
       <workItem from="1579230763281" duration="2889000" />
-      <workItem from="1579238633669" duration="6822000" />
+      <workItem from="1579238633669" duration="6967000" />
     </task>
     <task id="LOCAL-00001" summary="test gif">
       <created>1579245636809</created>
@@ -228,11 +227,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579245850655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add gif">
+      <created>1579248346470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579248346470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16531000" />
+    <option name="totallyTimeSpent" value="16676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -494,8 +500,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="114">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
